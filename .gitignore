@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+BrackeysGameJam2021/[Ll]ibrary/
+BrackeysGameJam2021/[Tt]emp/
+BrackeysGameJam2021/[Oo]bj/
+BrackeysGameJam2021/[Bb]uild/
+BrackeysGameJam2021/[Bb]uilds/
+BrackeysGameJam2021/[Ll]ogs/
+BrackeysGameJam2021/[Mm]emoryCaptures/
+BrackeysGameJam2021/[Rr]eleases/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
